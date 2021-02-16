@@ -9,3 +9,5 @@ Welcome to Github-Documentation's documentation!
 .. toctree::
    :maxdepth: 2
    :numbers:
+   
+  sample.md
